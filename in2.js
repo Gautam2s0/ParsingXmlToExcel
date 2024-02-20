@@ -162,3 +162,7 @@ function displayTable(div, td1, td2, td3, num) {
 
   div.append(row);
 }
+
+function table(){
+  
+}
